@@ -19,7 +19,7 @@ void()
 ## Executing a console command
 
 ```lua
-console.Execute('say "i wish i had sky... 😢"')
+console.Execute('say "i wish i had skybox effect... 😢"')
 console.Execute('disconnect')
 ```
 
